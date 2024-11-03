@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1718815027 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\bank_sistem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
